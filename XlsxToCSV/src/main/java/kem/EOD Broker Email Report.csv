@@ -1,0 +1,6 @@
+,,,TEST,,,,,,,,,,,,,,,,
+Symbol,Bloomberg ID,AssetType,OCCCode,SEDOL,CUSIP,Custodian Name,Side,,Quantity,Average Price,Execution Broker Name,Trade Date,Settlement Date,Settle Currency Symbol,Gross Money,Total Commissions,Total Fees,Net Money,
+AGL.AUS,AGL AT,Common Stock,,BSS7GP5,Q01630195,GSCO (Charter Oak),Sell,,51092.0,7.7214,JPM,44651.0,44655.0,AUD,394501.7688,394.5017688,0.0,394107.2670312,
+AGL.AUS,AGL AT,Common Stock,,BSS7GP5,Q01630195,JPM,Sell,,5363.0,7.7214,JPM,44651.0,44655.0,AUD,41409.8682,41.4098682,0.0,41368.4583318,
+AGL.AUS,AGL AT,Common Stock,,BSS7GP5,Q01630195,MSCO,Sell,,69720.0,7.7214,JPM,44651.0,44655.0,AUD,538336.008,538.336008,0.0,537797.671992,
+,,,,,,,,,,,,,,,,,,,
